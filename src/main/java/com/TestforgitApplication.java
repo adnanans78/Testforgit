@@ -9,8 +9,9 @@ public class TestforgitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestforgitApplication.class, args);
 		TestforgitApplication.TestMsg("Wellcome to Git Test");
+		System.out.println("Second Commit");
 	}
-	
+	  
 	public static void TestMsg(String s)
 	{
 		System.out.println(s);
