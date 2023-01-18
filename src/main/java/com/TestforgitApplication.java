@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestforgitApplication {
 
-	@Autowired
-	 Counting ct;  
+//	@Autowired
+//	 Counting ct;  
 	
 	public static void main(String[] args) {
 		SpringApplication.run(TestforgitApplication.class, args);
