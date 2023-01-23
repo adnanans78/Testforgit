@@ -14,7 +14,8 @@ public class TestforgitApplication {
 		SpringApplication.run(TestforgitApplication.class, args);
 		TestforgitApplication.TestMsg("Wellcome to Git Test");
 		System.out.println("Thirtd Commit");
-		System.out.println("Fourth Commit");    
+		System.out.println("Fourth Commit");   
+		System.out.println("Five Commit");   
 		//ct.Count();
 	}
 	  
